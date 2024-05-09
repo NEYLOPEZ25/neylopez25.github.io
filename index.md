@@ -1,4 +1,4 @@
-# neylopez25.github.io
+#neylopez25.github.io
 # Neydelin Lopez’s Portfolio
 I am a Computer Science student at CSUF and I expect to graduate in 2028. 
 
