@@ -1,5 +1,5 @@
 # neylopez25.github.io
-#Neydelin Lopez’s Portfolio
+# Neydelin Lopez’s Portfolio
 I am a Computer Science student at CSUF and I expect to graduate in 2028. 
 
 ## Favorite CPSC 120L Labs 
