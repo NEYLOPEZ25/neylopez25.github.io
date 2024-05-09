@@ -6,7 +6,7 @@ I am a Computer Science student at CSUF and I expect to graduate in 2028.
 
 * Lab 7, part 1
 
-  My favorite was lab 7 because it was mostly about loops and if statements. I had fun looking at the conditions on when we were able to park and depending where too. It was tricky on the part that we had to write the conditions, not because they were hard, but because it was confusing with all the ors(||) and ands(&&) and trying to see where the grouping would begin and finish. 
+  My favorite was lab 7 because it was mostly about loops and if statements. I had fun looking at the conditions on when we were able to park and depending where too. It was tricky on the part that we had to write the conditions, not because it was super hard, but because it was confusing with all the differnt conditions and trying to see where the grouping would begin and finish. 
 
 * Lab 5, part 1
 
